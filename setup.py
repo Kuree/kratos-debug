@@ -8,7 +8,7 @@ setup(
     author_email='keyi@stanford.edu',
     description='kratos-debug is a debug information viewer for kratos',
     url="https://github.com/Kuree/kratos-debug",
-    scripts=["kratos-viewer"],
+    scripts=["kratos-debug"],
     install_requires=[
         "pyqt5",
     ],
